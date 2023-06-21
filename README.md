@@ -1,4 +1,2 @@
-# movies-explorer-api
-
-Домен api:
-api.alexsysdip.nomoredomainsclub.ru
+# SoloGrupp
+Тестовое задание с телеграм-ботами.
